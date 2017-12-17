@@ -1,0 +1,512 @@
+[
+ {
+   "State": "Alabama",
+   "Number of drivers involved in fatal collisions per billion miles": 18.8,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding": 39,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired": 30,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Not Distracted": 96,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents": 80,
+   "Car Insurance Premiums ($)": 784.55,
+   "Losses incurred by insurance companies for collisions per insured driver ($)": 145.08
+ },
+ {
+   "State": "Alaska",
+   "Number of drivers involved in fatal collisions per billion miles": 18.1,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding": 41,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired": 25,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Not Distracted": 90,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents": 94,
+   "Car Insurance Premiums ($)": 1053.48,
+   "Losses incurred by insurance companies for collisions per insured driver ($)": 133.93
+ },
+ {
+   "State": "Arizona",
+   "Number of drivers involved in fatal collisions per billion miles": 18.6,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding": 35,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired": 28,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Not Distracted": 84,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents": 96,
+   "Car Insurance Premiums ($)": 899.47,
+   "Losses incurred by insurance companies for collisions per insured driver ($)": 110.35
+ },
+ {
+   "State": "Arkansas",
+   "Number of drivers involved in fatal collisions per billion miles": 22.4,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding": 18,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired": 26,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Not Distracted": 94,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents": 95,
+   "Car Insurance Premiums ($)": 827.34,
+   "Losses incurred by insurance companies for collisions per insured driver ($)": 142.39
+ },
+ {
+   "State": "California",
+   "Number of drivers involved in fatal collisions per billion miles": 12,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding": 35,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired": 28,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Not Distracted": 91,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents": 89,
+   "Car Insurance Premiums ($)": 878.41,
+   "Losses incurred by insurance companies for collisions per insured driver ($)": 165.63
+ },
+ {
+   "State": "Colorado",
+   "Number of drivers involved in fatal collisions per billion miles": 13.6,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding": 37,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired": 28,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Not Distracted": 79,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents": 95,
+   "Car Insurance Premiums ($)": 835.5,
+   "Losses incurred by insurance companies for collisions per insured driver ($)": 139.91
+ },
+ {
+   "State": "Connecticut",
+   "Number of drivers involved in fatal collisions per billion miles": 10.8,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding": 46,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired": 36,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Not Distracted": 87,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents": 82,
+   "Car Insurance Premiums ($)": 1068.73,
+   "Losses incurred by insurance companies for collisions per insured driver ($)": 167.02
+ },
+ {
+   "State": "Delaware",
+   "Number of drivers involved in fatal collisions per billion miles": 16.2,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding": 38,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired": 30,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Not Distracted": 87,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents": 99,
+   "Car Insurance Premiums ($)": 1137.87,
+   "Losses incurred by insurance companies for collisions per insured driver ($)": 151.48
+ },
+ {
+   "State": "District of Columbia",
+   "Number of drivers involved in fatal collisions per billion miles": 5.9,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding": 34,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired": 27,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Not Distracted": 100,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents": 100,
+   "Car Insurance Premiums ($)": 1273.89,
+   "Losses incurred by insurance companies for collisions per insured driver ($)": 136.05
+ },
+ {
+   "State": "Florida",
+   "Number of drivers involved in fatal collisions per billion miles": 17.9,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding": 21,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired": 29,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Not Distracted": 92,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents": 94,
+   "Car Insurance Premiums ($)": 1160.13,
+   "Losses incurred by insurance companies for collisions per insured driver ($)": 144.18
+ },
+ {
+   "State": "Georgia",
+   "Number of drivers involved in fatal collisions per billion miles": 15.6,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding": 19,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired": 25,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Not Distracted": 95,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents": 93,
+   "Car Insurance Premiums ($)": 913.15,
+   "Losses incurred by insurance companies for collisions per insured driver ($)": 142.8
+ },
+ {
+   "State": "Hawaii",
+   "Number of drivers involved in fatal collisions per billion miles": 17.5,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding": 54,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired": 41,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Not Distracted": 82,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents": 87,
+   "Car Insurance Premiums ($)": 861.18,
+   "Losses incurred by insurance companies for collisions per insured driver ($)": 120.92
+ },
+ {
+   "State": "Idaho",
+   "Number of drivers involved in fatal collisions per billion miles": 15.3,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding": 36,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired": 29,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Not Distracted": 85,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents": 98,
+   "Car Insurance Premiums ($)": 641.96,
+   "Losses incurred by insurance companies for collisions per insured driver ($)": 82.75
+ },
+ {
+   "State": "Illinois",
+   "Number of drivers involved in fatal collisions per billion miles": 12.8,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding": 36,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired": 34,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Not Distracted": 94,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents": 96,
+   "Car Insurance Premiums ($)": 803.11,
+   "Losses incurred by insurance companies for collisions per insured driver ($)": 139.15
+ },
+ {
+   "State": "Indiana",
+   "Number of drivers involved in fatal collisions per billion miles": 14.5,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding": 25,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired": 29,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Not Distracted": 95,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents": 95,
+   "Car Insurance Premiums ($)": 710.46,
+   "Losses incurred by insurance companies for collisions per insured driver ($)": 108.92
+ },
+ {
+   "State": "Iowa",
+   "Number of drivers involved in fatal collisions per billion miles": 15.7,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding": 17,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired": 25,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Not Distracted": 97,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents": 87,
+   "Car Insurance Premiums ($)": 649.06,
+   "Losses incurred by insurance companies for collisions per insured driver ($)": 114.47
+ },
+ {
+   "State": "Kansas",
+   "Number of drivers involved in fatal collisions per billion miles": 17.8,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding": 27,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired": 24,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Not Distracted": 77,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents": 85,
+   "Car Insurance Premiums ($)": 780.45,
+   "Losses incurred by insurance companies for collisions per insured driver ($)": 133.8
+ },
+ {
+   "State": "Kentucky",
+   "Number of drivers involved in fatal collisions per billion miles": 21.4,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding": 19,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired": 23,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Not Distracted": 78,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents": 76,
+   "Car Insurance Premiums ($)": 872.51,
+   "Losses incurred by insurance companies for collisions per insured driver ($)": 137.13
+ },
+ {
+   "State": "Louisiana",
+   "Number of drivers involved in fatal collisions per billion miles": 20.5,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding": 35,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired": 33,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Not Distracted": 73,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents": 98,
+   "Car Insurance Premiums ($)": 1281.55,
+   "Losses incurred by insurance companies for collisions per insured driver ($)": 194.78
+ },
+ {
+   "State": "Maine",
+   "Number of drivers involved in fatal collisions per billion miles": 15.1,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding": 38,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired": 30,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Not Distracted": 87,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents": 84,
+   "Car Insurance Premiums ($)": 661.88,
+   "Losses incurred by insurance companies for collisions per insured driver ($)": 96.57
+ },
+ {
+   "State": "Maryland",
+   "Number of drivers involved in fatal collisions per billion miles": 12.5,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding": 34,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired": 32,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Not Distracted": 71,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents": 99,
+   "Car Insurance Premiums ($)": 1048.78,
+   "Losses incurred by insurance companies for collisions per insured driver ($)": 192.7
+ },
+ {
+   "State": "Massachusetts",
+   "Number of drivers involved in fatal collisions per billion miles": 8.2,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding": 23,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired": 35,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Not Distracted": 87,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents": 80,
+   "Car Insurance Premiums ($)": 1011.14,
+   "Losses incurred by insurance companies for collisions per insured driver ($)": 135.63
+ },
+ {
+   "State": "Michigan",
+   "Number of drivers involved in fatal collisions per billion miles": 14.1,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding": 24,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired": 28,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Not Distracted": 95,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents": 77,
+   "Car Insurance Premiums ($)": 1110.61,
+   "Losses incurred by insurance companies for collisions per insured driver ($)": 152.26
+ },
+ {
+   "State": "Minnesota",
+   "Number of drivers involved in fatal collisions per billion miles": 9.6,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding": 23,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired": 29,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Not Distracted": 88,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents": 88,
+   "Car Insurance Premiums ($)": 777.18,
+   "Losses incurred by insurance companies for collisions per insured driver ($)": 133.35
+ },
+ {
+   "State": "Mississippi",
+   "Number of drivers involved in fatal collisions per billion miles": 17.6,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding": 15,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired": 31,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Not Distracted": 10,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents": 100,
+   "Car Insurance Premiums ($)": 896.07,
+   "Losses incurred by insurance companies for collisions per insured driver ($)": 155.77
+ },
+ {
+   "State": "Missouri",
+   "Number of drivers involved in fatal collisions per billion miles": 16.1,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding": 43,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired": 34,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Not Distracted": 92,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents": 84,
+   "Car Insurance Premiums ($)": 790.32,
+   "Losses incurred by insurance companies for collisions per insured driver ($)": 144.45
+ },
+ {
+   "State": "Montana",
+   "Number of drivers involved in fatal collisions per billion miles": 21.4,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding": 39,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired": 44,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Not Distracted": 84,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents": 85,
+   "Car Insurance Premiums ($)": 816.21,
+   "Losses incurred by insurance companies for collisions per insured driver ($)": 85.15
+ },
+ {
+   "State": "Nebraska",
+   "Number of drivers involved in fatal collisions per billion miles": 14.9,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding": 13,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired": 35,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Not Distracted": 93,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents": 90,
+   "Car Insurance Premiums ($)": 732.28,
+   "Losses incurred by insurance companies for collisions per insured driver ($)": 114.82
+ },
+ {
+   "State": "Nevada",
+   "Number of drivers involved in fatal collisions per billion miles": 14.7,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding": 37,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired": 32,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Not Distracted": 95,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents": 99,
+   "Car Insurance Premiums ($)": 1029.87,
+   "Losses incurred by insurance companies for collisions per insured driver ($)": 138.71
+ },
+ {
+   "State": "New Hampshire",
+   "Number of drivers involved in fatal collisions per billion miles": 11.6,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding": 35,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired": 30,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Not Distracted": 87,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents": 83,
+   "Car Insurance Premiums ($)": 746.54,
+   "Losses incurred by insurance companies for collisions per insured driver ($)": 120.21
+ },
+ {
+   "State": "New Jersey",
+   "Number of drivers involved in fatal collisions per billion miles": 11.2,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding": 16,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired": 28,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Not Distracted": 86,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents": 78,
+   "Car Insurance Premiums ($)": 1301.52,
+   "Losses incurred by insurance companies for collisions per insured driver ($)": 159.85
+ },
+ {
+   "State": "New Mexico",
+   "Number of drivers involved in fatal collisions per billion miles": 18.4,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding": 19,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired": 27,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Not Distracted": 67,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents": 98,
+   "Car Insurance Premiums ($)": 869.85,
+   "Losses incurred by insurance companies for collisions per insured driver ($)": 120.75
+ },
+ {
+   "State": "New York",
+   "Number of drivers involved in fatal collisions per billion miles": 12.3,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding": 32,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired": 29,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Not Distracted": 88,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents": 80,
+   "Car Insurance Premiums ($)": 1234.31,
+   "Losses incurred by insurance companies for collisions per insured driver ($)": 150.01
+ },
+ {
+   "State": "North Carolina",
+   "Number of drivers involved in fatal collisions per billion miles": 16.8,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding": 39,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired": 31,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Not Distracted": 94,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents": 81,
+   "Car Insurance Premiums ($)": 708.24,
+   "Losses incurred by insurance companies for collisions per insured driver ($)": 127.82
+ },
+ {
+   "State": "North Dakota",
+   "Number of drivers involved in fatal collisions per billion miles": 23.9,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding": 23,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired": 42,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Not Distracted": 99,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents": 86,
+   "Car Insurance Premiums ($)": 688.75,
+   "Losses incurred by insurance companies for collisions per insured driver ($)": 109.72
+ },
+ {
+   "State": "Ohio",
+   "Number of drivers involved in fatal collisions per billion miles": 14.1,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding": 28,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired": 34,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Not Distracted": 99,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents": 82,
+   "Car Insurance Premiums ($)": 697.73,
+   "Losses incurred by insurance companies for collisions per insured driver ($)": 133.52
+ },
+ {
+   "State": "Oklahoma",
+   "Number of drivers involved in fatal collisions per billion miles": 19.9,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding": 32,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired": 29,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Not Distracted": 92,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents": 94,
+   "Car Insurance Premiums ($)": 881.51,
+   "Losses incurred by insurance companies for collisions per insured driver ($)": 178.86
+ },
+ {
+   "State": "Oregon",
+   "Number of drivers involved in fatal collisions per billion miles": 12.8,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding": 33,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired": 26,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Not Distracted": 67,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents": 90,
+   "Car Insurance Premiums ($)": 804.71,
+   "Losses incurred by insurance companies for collisions per insured driver ($)": 104.61
+ },
+ {
+   "State": "Pennsylvania",
+   "Number of drivers involved in fatal collisions per billion miles": 18.2,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding": 50,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired": 31,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Not Distracted": 96,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents": 88,
+   "Car Insurance Premiums ($)": 905.99,
+   "Losses incurred by insurance companies for collisions per insured driver ($)": 153.86
+ },
+ {
+   "State": "Rhode Island",
+   "Number of drivers involved in fatal collisions per billion miles": 11.1,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding": 34,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired": 38,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Not Distracted": 92,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents": 79,
+   "Car Insurance Premiums ($)": 1148.99,
+   "Losses incurred by insurance companies for collisions per insured driver ($)": 148.58
+ },
+ {
+   "State": "South Carolina",
+   "Number of drivers involved in fatal collisions per billion miles": 23.9,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding": 38,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired": 41,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Not Distracted": 96,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents": 81,
+   "Car Insurance Premiums ($)": 858.97,
+   "Losses incurred by insurance companies for collisions per insured driver ($)": 116.29
+ },
+ {
+   "State": "South Dakota",
+   "Number of drivers involved in fatal collisions per billion miles": 19.4,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding": 31,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired": 33,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Not Distracted": 98,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents": 86,
+   "Car Insurance Premiums ($)": 669.31,
+   "Losses incurred by insurance companies for collisions per insured driver ($)": 96.87
+ },
+ {
+   "State": "Tennessee",
+   "Number of drivers involved in fatal collisions per billion miles": 19.5,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding": 21,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired": 29,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Not Distracted": 82,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents": 81,
+   "Car Insurance Premiums ($)": 767.91,
+   "Losses incurred by insurance companies for collisions per insured driver ($)": 155.57
+ },
+ {
+   "State": "Texas",
+   "Number of drivers involved in fatal collisions per billion miles": 19.4,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding": 40,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired": 38,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Not Distracted": 91,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents": 87,
+   "Car Insurance Premiums ($)": 1004.75,
+   "Losses incurred by insurance companies for collisions per insured driver ($)": 156.83
+ },
+ {
+   "State": "Utah",
+   "Number of drivers involved in fatal collisions per billion miles": 11.3,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding": 43,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired": 16,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Not Distracted": 88,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents": 96,
+   "Car Insurance Premiums ($)": 809.38,
+   "Losses incurred by insurance companies for collisions per insured driver ($)": 109.48
+ },
+ {
+   "State": "Vermont",
+   "Number of drivers involved in fatal collisions per billion miles": 13.6,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding": 30,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired": 30,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Not Distracted": 96,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents": 95,
+   "Car Insurance Premiums ($)": 716.2,
+   "Losses incurred by insurance companies for collisions per insured driver ($)": 109.61
+ },
+ {
+   "State": "Virginia",
+   "Number of drivers involved in fatal collisions per billion miles": 12.7,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding": 19,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired": 27,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Not Distracted": 87,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents": 88,
+   "Car Insurance Premiums ($)": 768.95,
+   "Losses incurred by insurance companies for collisions per insured driver ($)": 153.72
+ },
+ {
+   "State": "Washington",
+   "Number of drivers involved in fatal collisions per billion miles": 10.6,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding": 42,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired": 33,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Not Distracted": 82,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents": 86,
+   "Car Insurance Premiums ($)": 890.03,
+   "Losses incurred by insurance companies for collisions per insured driver ($)": 111.62
+ },
+ {
+   "State": "West Virginia",
+   "Number of drivers involved in fatal collisions per billion miles": 23.8,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding": 34,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired": 28,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Not Distracted": 97,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents": 87,
+   "Car Insurance Premiums ($)": 992.61,
+   "Losses incurred by insurance companies for collisions per insured driver ($)": 152.56
+ },
+ {
+   "State": "Wisconsin",
+   "Number of drivers involved in fatal collisions per billion miles": 13.8,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding": 36,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired": 33,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Not Distracted": 39,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents": 84,
+   "Car Insurance Premiums ($)": 670.31,
+   "Losses incurred by insurance companies for collisions per insured driver ($)": 106.62
+ },
+ {
+   "State": "Wyoming",
+   "Number of drivers involved in fatal collisions per billion miles": 17.4,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding": 42,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired": 32,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Were Not Distracted": 81,
+   "Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents": 90,
+   "Car Insurance Premiums ($)": 791.14,
+   "Losses incurred by insurance companies for collisions per insured driver ($)": 122.04
+ }
+]

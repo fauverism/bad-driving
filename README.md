@@ -1,2 +1,14 @@
-# bad-driving
-A webpage detailing bad driving and bad drivers
+# baddrivers
+
+This is a data visualization project which showcases bad driving and bad drivers
+
+This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
+version 0.15.1.
+
+## Build & development
+
+Run `grunt` for building and `grunt serve` for preview.
+
+## Testing
+
+Running `grunt test` will run the unit tests with karma.
