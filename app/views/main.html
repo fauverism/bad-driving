@@ -1,3 +1,15 @@
 <div ng-controller="MainCtrl">
-  <pre ng-bind="fiveThirtyEight"></pre>
+  <ul>
+    <img class="usa-high" src="images/usaHigh.svg" alt="USA"> 
+    <li ng-repeat="item in fiveThirtyEight">
+      {{ item.State }}
+      {{ item['Number of drivers involved in fatal collisions per billion miles'] }}
+      {{ item['Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding'] }}
+      {{ item['Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired'] }}
+      {{ item['Percentage Of Drivers Involved In Fatal Collisions Who Were Not Distracted'] }}
+      {{ item['Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents'] }}
+      {{ item['Car Insurance Premiums ($)'] }}
+      {{ item['Losses incurred by insurance companies for collisions per insured driver ($)'] }}
+    </li>
+  </ul>
 </div>

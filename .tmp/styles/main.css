@@ -8800,5 +8800,11 @@ body {
     border-bottom: 0;
   }
 }
+/* line 93, ../../app/styles/main.scss */
+.usa-high {
+  height: 770px;
+  vertical-align: top;
+  width: 1280px;
+}
 
 /*# sourceMappingURL=main.css.map */
